@@ -1,0 +1,35 @@
+2age与CM_purchase Kl散度：0.0748653094674
+3sex与CM_purchase Kl散度：0.109942035499
+4Regis_reside与CM_purchase Kl散度：0.229683643927
+5occupation与CM_purchase Kl散度：0.210406360739
+6body_healthy与CM_purchase Kl散度：0.142367695823
+7A 与CM_purchase Kl散度：0.769665207537
+7B 与CM_purchase Kl散度：1.02014819215
+7C 与CM_purchase Kl散度：1.44955079342
+7D与CM_purchase Kl散度：1.22317193274
+7E与CM_purchase Kl散度：1.28379750942
+7F 与CM_purchase Kl散度：1.21566370105
+7G 与CM_purchase Kl散度：1.31318103674
+7H与CM_purchase Kl散度：4.2868886211
+9A与CM_purchase Kl散度：0.580148401545
+9B 与CM_purchase Kl散度：1.60983310551
+9C 与CM_purchase Kl散度：1.68688765142
+9D 与CM_purchase Kl散度：1.38272478843
+9E 与CM_purchase Kl散度：1.71423399827
+9F与CM_purchase Kl散度：1.65634336418
+9G与CM_purchase Kl散度：1.43333835793
+9H 与CM_purchase Kl散度：3.2465021077
+9I 与CM_purchase Kl散度：3.51147585708
+9J 与CM_purchase Kl散度：5.34649634102
+CN_purchase与CM_purchase Kl散度：0.0679590180199
+CD_purchase与CM_purchase Kl散度：0.0669849577706
+total_income与CM_purchase Kl散度：0.192545414524
+8income与CM_purchase Kl散度：1.26313474536
+8cost与CM_purchase Kl散度：1.65005013646
+8live_envr与CM_purchase Kl散度：2.26680850096
+8family与CM_purchase Kl散度：1.54312739753
+8moody与CM_purchase Kl散度：2.60361558895
+8desase与CM_purchase Kl散度：1.11595554252
+8walk_ability与CM_purchase Kl散度：1.78745444789
+province与CM_purchase Kl散度：0.337952454933
+CM_purchase与CM_purchase Kl散度：0.0

@@ -1,0 +1,35 @@
+2age与CM_purchase pearson 相关度：0.521798444969
+3sex与CM_purchase pearson 相关度：0.526394188532
+4Regis_reside与CM_purchase pearson 相关度：0.501838946048
+5occupation与CM_purchase pearson 相关度：0.545410179144
+6body_healthy与CM_purchase pearson 相关度：0.532547068699
+7A 与CM_purchase pearson 相关度：0.456877438326
+7B 与CM_purchase pearson 相关度：0.47795765289
+7C 与CM_purchase pearson 相关度：0.497403471223
+7D与CM_purchase pearson 相关度：0.480107854674
+7E与CM_purchase pearson 相关度：0.508643876094
+7F 与CM_purchase pearson 相关度：0.527621970518
+7G 与CM_purchase pearson 相关度：0.500431825121
+7H与CM_purchase pearson 相关度：0.503518315222
+9A与CM_purchase pearson 相关度：0.471928396268
+9B 与CM_purchase pearson 相关度：0.474714468004
+9C 与CM_purchase pearson 相关度：0.496206775233
+9D 与CM_purchase pearson 相关度：0.444579980286
+9E 与CM_purchase pearson 相关度：0.48199368724
+9F与CM_purchase pearson 相关度：0.532418730643
+9G与CM_purchase pearson 相关度：0.553857029389
+9H 与CM_purchase pearson 相关度：0.525388378587
+9I 与CM_purchase pearson 相关度：0.516998293823
+9J 与CM_purchase pearson 相关度：0.503366541904
+CN_purchase与CM_purchase pearson 相关度：0.703165569607
+CD_purchase与CM_purchase pearson 相关度：0.703762824825
+total_income与CM_purchase pearson 相关度：0.509378380584
+8income与CM_purchase pearson 相关度：0.511990975529
+8cost与CM_purchase pearson 相关度：0.487015483995
+8live_envr与CM_purchase pearson 相关度：0.476719003267
+8family与CM_purchase pearson 相关度：0.515993579517
+8moody与CM_purchase pearson 相关度：0.491397837066
+8desase与CM_purchase pearson 相关度：0.474152638651
+8walk_ability与CM_purchase pearson 相关度：0.499579913064
+province与CM_purchase pearson 相关度：0.525840631634
+CM_purchase与CM_purchase pearson 相关度：1.0
