@@ -2,6 +2,7 @@ eclipse.preferences.version=1
 encoding//data_process/extract_feature.py=utf-8
 encoding//data_relation_visible/relativity.py=utf-8
 encoding//data_relation_visible/visible.py=utf-8
+encoding//predict_model/CD_purchase_model.py=utf-8
 encoding//predict_model/CM_purchase_model.py=utf-8
 encoding//predict_model/CN_purchase_model.py=utf-8
 encoding/<project>=UTF-8

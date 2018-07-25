@@ -17,10 +17,10 @@ print(no_survey)
 no_survey=no_survey.astype(float)
 from sklearn import tree
 from sklearn.cross_validation import train_test_split  #这里是引用了交叉验证 
-FeatureSet=no_survey.drop(columns=['CN_purchase'])
+FeatureSet=no_survey.drop(columns=['CD_purchase'])
 featureName=FeatureSet.columns.values.tolist()
 print(featureName)
-Label=no_survey['CN_purchase']
+Label=no_survey['CD_purchase']
 X_train,X_test, y_train, y_test = train_test_split(FeatureSet, Label, random_state=1)#将数据随机分成训练集和测试集
 print (X_train)
 print (X_test)
@@ -48,6 +48,8 @@ score=clf.score(X_test, y_test)#
 print ('DecisionTree prediction score:'+str(score))
 scores = cross_val_score(clf, X_test, y_test, cv=5)
 print(scores)
+with open("cn_model_score.txt", 'a') as f:
+     f.write("decision tree  :"+str(scores)+'\n')
 ########################################################
 # from sklearn import svm
 # from sklearn import metrics
